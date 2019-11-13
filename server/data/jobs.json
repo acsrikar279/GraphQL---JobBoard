@@ -16,5 +16,17 @@
     "companyId": "SJV0-wdOM",
     "title": "Full-Stack Developer",
     "description": "We are looking for a Full-Stack Developer familiar with Node.js, Express, and React."
+  },
+  {
+    "id": "SJ5NgFFsB",
+    "companyId": "SJV0-wdOM",
+    "title": "Web Developer",
+    "description": "We do things like spiders"
+  },
+  {
+    "id": "BylOetYsr",
+    "companyId": "SJV0-wdOM",
+    "title": "AI Engineer",
+    "description": "Brains of PC"
   }
 ]
